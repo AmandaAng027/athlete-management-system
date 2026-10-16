@@ -2,9 +2,9 @@
 
 ## Overview
 
-The North Sussex Judo Athlete Management System is a Python desktop application designed to help administrators manage athletes, training plans, private coaching, competitions, and related expenses.
+The North Sussex Judo Athlete Management System is a Python desktop application developed by Amanda Ang from December 2023 to February 2024 (see [Project Report](Project_Report.pdf)). It is designed to help administrators manage athletes, training plans, private coaching, competitions, and related expenses. All scenarios and data used in the project are fictional.
 
-The project demonstrates the use of Python programming concepts, modular design, and a graphical user interface to support the day-to-day management of a judo club.
+This academic project demonstrates the application of Python programming concepts, modular design, and graphical user interface development to support the day-to-day management of a judo club.
 
 ## Features
 
