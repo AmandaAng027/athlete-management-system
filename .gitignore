@@ -1,10 +1,22 @@
+# Python cache
 __pycache__/
 *.py[cod]
+
+# Virtual environments and secrets
 .venv/
 venv/
 .env
+
+# IDE settings
 .idea/
 .vscode/
+
+# PyInstaller build files
+build/
+dist/
+*.spec
+
+# Logs and operating-system files
 *.log
 .DS_Store
 Thumbs.db
